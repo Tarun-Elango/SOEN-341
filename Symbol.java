@@ -7,7 +7,7 @@ package javaapplication41;
 
 /**
  *
- * @author a_kor
+ * @author aida_kor
  */
 public class Symbol {
   	
